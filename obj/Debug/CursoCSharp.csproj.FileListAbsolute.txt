@@ -1,0 +1,7 @@
+C:\Users\entra\source\repos\CursoCSharp\bin\Debug\CursoCSharp.exe.config
+C:\Users\entra\source\repos\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\entra\source\repos\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\entra\source\repos\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\entra\source\repos\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\entra\source\repos\CursoCSharp\obj\Debug\CursoCSharp.pdb
+C:\Users\entra\source\repos\CursoCSharp\obj\Debug\CursoCSharp.csprojAssemblyReference.cache
