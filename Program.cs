@@ -16,6 +16,10 @@ namespace CursoCSharp {
                 {"Lendo Dados do Console- Fundamentos", LendoDados.Executar},
                 {"Formatando Número- Fundamentos", FormatandoNumeros.Executar},
                 {"Converter números- Fundamentos", Conversoes.Executar},
+                {"Operadores Aritméticos- Fundamentos", OperadoresAritmeticos.Executar},
+                {"Operadores Relacionais- Fundamentos", OperadoresRelacionais.Executar},
+                {"Operadores Lógicos- Fundamentos", OperadoresLogicos.Executar},
+                {"Operadores de Atribuição- Fundamentos", OperadoresAtribuicao.Executar},
 
             });
 
