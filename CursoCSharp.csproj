@@ -46,6 +46,9 @@
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="EstruturasDeControle\EstruturaIf.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaIfElse.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaSwitch.cs" />
+    <Compile Include="EstruturasDeControle\IfElseIf.cs" />
     <Compile Include="Fundamentos\Comentarios.cs" />
     <Compile Include="Fundamentos\Conversoes.cs" />
     <Compile Include="Fundamentos\FormatandoNumeros.cs" />

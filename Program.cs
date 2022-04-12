@@ -1,13 +1,15 @@
-﻿using System;
+﻿using CursoCSharp.EstruturasDeControle;
+using CursoCSharp.Fundamentos;
+using System;
 using System.Collections.Generic;
 
-using CursoCSharp.Fundamentos;
-using CursoCSharp.EstruturasDeControle;
-
-namespace CursoCSharp {
-    class Program {
-        static void Main(string[] args) {
-            var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+namespace CursoCSharp
+{
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            CentralDeExercicios central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 //Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentarios - Fundamentos", Comentarios.Executar},
@@ -26,7 +28,11 @@ namespace CursoCSharp {
                 {"Operador Ternário- Fundamentos", OperadorTernario.Executar},
                 
                 //Estruturas de Controle
-                {"Estrutura If - Estruturas de controe", EstruturaIf.Executar},
+                {"Estrutura If - Estruturas de controle", EstruturaIf.Executar},
+                {"Estrutura If/Else - Estruturas de controle", EstruturaIfElse.Executar},
+                {"Estrutura If/Else/If - Estruturas de controle", IfElseIf.Executar},
+                {"Estrutura Switch - Estruturas de controle", EstruturaSwitch.Executar},
+
 
             });
 
