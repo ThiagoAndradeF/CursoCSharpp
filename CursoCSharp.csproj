@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="ClassesEMetodos\Construtores.cs" />
+    <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
     <Compile Include="EstruturasDeControle\EstruturaForeach.cs" />
     <Compile Include="EstruturasDeControle\EstruturaDoWhile.cs" />
     <Compile Include="EstruturasDeControle\EstruturaFor.cs" />
