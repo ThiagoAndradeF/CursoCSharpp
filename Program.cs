@@ -1,6 +1,6 @@
-﻿using CursoCSharp.EstruturasDeControle;
+﻿using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
-using CursoCSharp.ClassesEMetodos;
 using System;
 using System.Collections.Generic;
 
@@ -55,6 +55,12 @@ namespace CursoCSharp
                 {"Struct -Classes e Metodos", ExemploStruct.Executar},
                 {"Struct vs Classe -Classes e Metodos", StructVsClasse.Executar},
                 {"Valor vs Referência -Classes e Metodos", ValorVsReferencia.Executar},
+                {"Parâmetros por referência -Classes e Metodos",ParametrosPorReferencia.Executar},
+                {"Parâmetr Padrão-Classes e Metodos",ParametroPadrao.Executar},
+
+                //Coleções
+
+                {"Arrays - Coleções ", Colecoes.Array.Executar},
 
 
 
