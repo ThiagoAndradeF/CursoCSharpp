@@ -61,6 +61,7 @@ namespace CursoCSharp
                 //Coleções
 
                 {"Arrays - Coleções ", Colecoes.Array.Executar},
+                {"Arrays - Coleções ", Colecoes.List.Executar},
 
 
 

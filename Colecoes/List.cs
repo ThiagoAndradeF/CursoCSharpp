@@ -8,5 +8,16 @@ namespace CursoCSharp.Colecoes
 {
     class List
     {
+        public class Produto
+        {
+            public string Nome;
+            public double Preco;
+        }
+        public override bool Equals 
+        public static void Executar(string nome, double preco)
+        {
+            
+
+        }
     }
 }
