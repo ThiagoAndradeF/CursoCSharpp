@@ -15,7 +15,7 @@ namespace CursoCSharp.ClassesEMetodos
         {
             Nome=nome;
             Nascimento=nascimento;
-            Nascimento= new DateTime(2020, 10, 10);//Ao constar esse datetime, devivo ao Readonly
+            Nascimento= new DateTime(2020, 10, 10);//Ao constar esse datetime, devido ao Readonly
             //apenas esse será lido
         }
         public Cliente(){ }

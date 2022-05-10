@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp.Colecoes
 {
-    class AppCrush
+    class ColecoesList
     {
-
     }
 }

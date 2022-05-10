@@ -62,9 +62,10 @@
     <Compile Include="ClassesEMetodos\Struct.cs" />
     <Compile Include="ClassesEMetodos\StructVsClasse.cs" />
     <Compile Include="ClassesEMetodos\ValorVsReferencia.cs" />
-    <Compile Include="Colecoes\AppCrush.cs" />
     <Compile Include="Colecoes\Array.cs" />
+    <Compile Include="Colecoes\ArrayList.cs" />
     <Compile Include="Colecoes\List.cs" />
+    <Compile Include="Colecoes\Set.cs" />
     <Compile Include="EstruturasDeControle\EstruturaForeach.cs" />
     <Compile Include="EstruturasDeControle\EstruturaDoWhile.cs" />
     <Compile Include="EstruturasDeControle\EstruturaFor.cs" />
