@@ -1,6 +1,7 @@
 ﻿using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
+using CursoCSharp.OO;
 using System;
 using System.Collections.Generic;
 
@@ -67,7 +68,12 @@ namespace CursoCSharp
                 {"Queue - Coleções ", Colecoes.Queue.Executar},
                 {"Igualdade Equals e GetHashCode - Coleções ", Colecoes.IgualdadeEqualsEGetHashCode.Executar},
                 {"Stack - Coleções ", Colecoes.ColecoesStack.Executar},
-                {"Dictionary Coleções ", Colecoes.ColecoesDictionary.Executar},
+                {"Dictionary - Coleções ", Colecoes.ColecoesDictionary.Executar},
+
+                //OO
+
+
+                {"Herança - OO ", Herança.Executar},
 
 
 
