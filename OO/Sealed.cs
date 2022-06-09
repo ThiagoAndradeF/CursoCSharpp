@@ -25,7 +25,7 @@ namespace CursoCSharp.OO
     class FilhoRebelde : Pai { 
         //public override sealed bool HonrarNomeFamilia()
         //{
-        //    return false;
+        //    return false;  
         //}
         }
     
@@ -36,7 +36,7 @@ namespace CursoCSharp.OO
             Console.WriteLine(semFilho.ValorDaFortuna());
 
             var filhoRebelde= new FilhoRebelde();
-            Console.WriteLine(filhoRebelde.HonrarNomeFamilia());
+            Console.WriteLine(filhoRebelde.HonrarNomeFamilia() );
             }
 
 
