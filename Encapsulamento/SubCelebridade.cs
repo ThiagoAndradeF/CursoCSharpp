@@ -26,7 +26,6 @@ namespace Encapsulamento
 
         public void MeusAcessos() {
             Console.WriteLine("SubCelebridade...");
-
             Console.WriteLine(InfoPublica);
             Console.WriteLine(CorDoOlho);
             Console.WriteLine(NumeroCelular);

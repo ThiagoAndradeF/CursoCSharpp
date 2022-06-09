@@ -77,6 +77,8 @@ namespace CursoCSharp
                 {"Contrutor this - OO ", ConstrutorThis.Executar},
                 //{"Contrutor this - OO ", Encapsulamentoo.Executar},
                 {"Polimorfismo - OO ", Polimorfismo.Executar},
+                {"Abstract - OO ", Abstract.Executar},
+                {"Interface - OO ", Interface.Executar},
                 
 
 
