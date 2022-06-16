@@ -2,6 +2,7 @@
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.OO;
+using CursoCSharp.MetodosEFuncoes;
 using System;
 using System.Collections.Generic;
 
@@ -70,7 +71,7 @@ namespace CursoCSharp
                 {"Stack - Coleções ", Colecoes.ColecoesStack.Executar},
                 {"Dictionary - Coleções ", Colecoes.ColecoesDictionary.Executar},
 
-                //OO
+                //Orientação a Objeto
 
 
                 {"Herança - OO ", Herança.Executar},
@@ -81,6 +82,12 @@ namespace CursoCSharp
                 {"Interface - OO ", Interface.Executar},
                 {"Sealed - OO ", Sealed.Executar},
                 
+                //Metodos e Funções
+                {"Exemplo Lambda - Métodos e Funcoes ", ExemploLambda.Executar},
+                {"Lambda Delegate - Métodos e Funcoes ", LambdasDelegate.Executar},
+                {"Usando Delegate - Métodos e Funcoes ", UsandoDelegate.Executar},
+                
+
 
 
 
